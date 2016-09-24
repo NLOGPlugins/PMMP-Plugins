@@ -1,6 +1,6 @@
 <?php
 
-namespace ByeTerror;
+namespace ProtectServer;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
