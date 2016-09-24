@@ -1,0 +1,7 @@
+name: ByeTerror
+main: ByeTerror\Main
+author: ParkChansol
+version: Test-1.0
+api:
+- 1.13.0
+- 2.0.0

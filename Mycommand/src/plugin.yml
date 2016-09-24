@@ -1,0 +1,23 @@
+﻿name: MyCommand
+main: Yasuo\exampleplugin\ExamplePlugin
+version: "release"
+author: free24
+api:
+- 1.0.0
+- 1.12.1
+- 1.4.1
+- 2.0.0
+- 1.13.1
+
+commands:
+ 토지: # 명령어
+  description: 토지 관련 명령어를 보여줍니다. #명령어의 설명
+  usage: /토지 #명령어의 사용방법
+
+ 돈: # 명령어
+  description: 돈 관련 명령어를 보여줍니다. #명령어의 설명
+  usage: /영역 #명령어의 사용방법
+
+ 상점: # 명령어
+  description: 상점 관련 명령어를 보여줍니다. #명령어의 설명
+  usage: /숍 #명령어의 사용방법

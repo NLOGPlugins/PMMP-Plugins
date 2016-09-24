@@ -1,0 +1,15 @@
+﻿name: Server_IP
+main: Server_IP\Main
+author: Parkchansol
+version: 1.0
+api:
+- 1.12.0
+- 1.13.0
+- 2.0.0
+commands:
+  server:
+    description: 서버의 주소, 포트를 표시합니다
+
+permissions:
+ server.commands:
+  default: true
