@@ -1,5 +1,5 @@
-name: ByeTerror
-main: ByeTerror\Main
+name: ProtectServer
+main: ProtectServer\Main
 author: ParkChansol
 version: Test-1.0
 api:
