@@ -1,5 +1,5 @@
-name: CSMine
-main: CSMine\Main
+name: MineBlock
+main: MineBlock\Main
 version: "1.0"
 api:
 - 1.12.0
