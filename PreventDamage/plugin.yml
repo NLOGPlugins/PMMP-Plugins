@@ -1,0 +1,7 @@
+name: MineInfo
+main: MineInfo\Main
+author: ParkChanSol
+version: 1.0-alpha
+api:
+- 1.13.0
+- 2.0.0
