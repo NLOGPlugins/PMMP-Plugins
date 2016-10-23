@@ -20,8 +20,8 @@ class Main extends PluginBase implements Listener {
 	}
 	
 	public function onTouch(PlayerInteractEvent $event) {
-		$player = $this->getServer()->getPlayer();
-		$item = $this->getServer()->getPlayer()->getInventory()->getItem();
+		$player = $event->getPlayer();
+		$item = $player->getInventory()->getItem();
 		if ($event->getItem()->getId() == 369) {
 			if ($event->getBlock() == 130) {
 				switch (mt_rand(0, 10)) {
