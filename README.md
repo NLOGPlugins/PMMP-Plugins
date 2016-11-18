@@ -3,4 +3,3 @@
 
 # License
 * GPLv3(GNU Public License version 3)
-* Do Not Decompile(PHAR)
